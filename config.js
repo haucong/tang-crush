@@ -14,4 +14,4 @@ const CONFIG = {
     messDesc: 'Tối ngủ ngoan nha cục vàng <3 ',
     btnAccept: 'Dạaaa ^^ <3',
     messLink: 'https://www.facebook.com/bapconghau/' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}y
+}
